@@ -1,0 +1,1 @@
+web: gunicorn sailor_sam.wsgi:application
