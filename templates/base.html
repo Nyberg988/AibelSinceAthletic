@@ -69,15 +69,6 @@
                                 <a href="{% url 'account_login' %}" class="dropdown-item">Login</a>
                             {% endif %}
                         </div>
-                        <div ol class="icons">
-                            <li>
-                               <a href="https://www.facebook.com/profile.php?id=100087732176003" target="_blank" rel="noopener" 
-                                    aria-label="visit our facebook page">
-                                    <i class="fab fa-facebook"></i>
-                                </a>
-                            </li>
-                        </ol>
-                        </div>
                     </li>
                     <li class="list-inline-item">
                         <a class="{% if grand_total %}text-info font-weight-bold{% else %}text-black{% endif %} nav-link" href="{% url 'view_bag' %}">
@@ -156,6 +147,14 @@
           <input type="submit" value="Subscribe">
         </div>
       </form>
+      <ol class="icons">
+        <li>
+           <a href="https://www.facebook.com/profile.php?id=100087732176003" target="_blank" rel="noopener" 
+                aria-label="visit our facebook page">
+                <i class="fab fa-facebook"></i>
+            </a>
+        </li>
+    </ol>
     </footer>
   </body>
 </html>
