@@ -161,7 +161,7 @@ a.category-badge > span.badge:hover {
 }
 
 .arrow-dark {
-    border-bottom-color: #343a40 !important;
+    border-bottom-color: #fdfdfd !important;
 }
 
 .bag-notification-wrapper {
@@ -183,7 +183,7 @@ a.category-badge > span.badge:hover {
 
 .allauth-form-inner-content p {
     margin-top: 1.5rem; /* mt-4 */
-    color: #6c757d; /* text-secondary */
+    color: #ffffff; /* text-secondary */
 }
 
 .allauth-form-inner-content input {
@@ -196,7 +196,7 @@ a.category-badge > span.badge:hover {
 }
 
 .allauth-form-inner-content input::placeholder {
-    color: #aab7c4;
+    color: #ffffff;
 }
 
 .allauth-form-inner-content button,
