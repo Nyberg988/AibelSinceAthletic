@@ -339,10 +339,9 @@ form {
     padding: 12px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(250, 247, 247);
     box-sizing: border-box;
   }
-  
   /* Add margins to the checkbox */
   input[type=checkbox] {
     margin-top: 16px;
@@ -351,7 +350,7 @@ form {
   /* Style the submit button */
   input[type=submit] {
     background-color: #04AA6D;
-    color: white;
+    color: rgb(0, 0, 0);
     border: none;
   }
   
