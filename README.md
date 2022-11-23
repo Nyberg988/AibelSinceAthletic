@@ -69,6 +69,10 @@ The live link can be found here - https://www.facebook.com/people/Sailor-Sam/100
 
 ![2022-10-27 (17)](https://user-images.githubusercontent.com/106691587/198368311-c6bd7230-4b2b-492b-a1ac-2f27f28b3690.png)
 
+# Sketch
+
+![IMG_20221123_022739](https://user-images.githubusercontent.com/106691587/203453271-75897508-88ef-45b5-88e5-d67a448c3c75.jpg)
+
 # Technologies Used:
 For this project, the following technologies were used.
 Frameworks, Libraries, Programs & Applications Used:
