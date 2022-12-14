@@ -224,7 +224,7 @@ a.category-badge > span.badge:hover {
 
 .allauth-form-inner-content button:hover,
 .allauth-form-inner-content input[type='submit']:hover {	
-	color: #fff;
+	color: rgb(0, 0, 0);
     background-color: #222;
     border-color: #222;
 }
@@ -257,7 +257,7 @@ a.category-badge > span.badge:hover {
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
     background-color: #ff0303;
-    border-color: #ffffff;
+    border-color: #000000;
     border-radius: 0;
 }
 
@@ -339,7 +339,7 @@ form {
     padding: 12px;
     margin: 8px 0;
     display: inline-block;
-    border: 1px solid rgb(250, 247, 247);
+    border: 1px solid rgb(0, 0, 0);
     box-sizing: border-box;
   }
   /* Add margins to the checkbox */
