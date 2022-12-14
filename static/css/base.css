@@ -161,7 +161,7 @@ a.category-badge > span.badge:hover {
 }
 
 .arrow-dark {
-    border-bottom-color: #fdfdfd !important;
+    border-bottom-color: #ffffff !important;
 }
 
 .bag-notification-wrapper {
@@ -252,7 +252,7 @@ a.category-badge > span.badge:hover {
 
 .custom-checkbox .custom-control-label::before {
     border-radius: 0;
-    border-color: #ffffff;
+    border-color: #000000;
 }
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
