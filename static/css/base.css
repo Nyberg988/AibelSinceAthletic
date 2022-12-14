@@ -40,7 +40,7 @@ body {
 
 .btn-outline-black {
     background: rgb(0, 0, 0);
-    color: rgb(255, 254, 254) !important; /* use important to override link colors for <a> elements */
+    color: rgb(255, 255, 255) !important; /* use important to override link colors for <a> elements */
     border: 1px solid rgb(0, 0, 0);
 }
 
@@ -85,7 +85,7 @@ body {
 
 a.category-badge > span.badge:hover {
     background: #000000 !important;
-    color: #fff !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 .btt-button {
@@ -157,11 +157,11 @@ a.category-badge > span.badge:hover {
 }
 
 .arrow-light {
-    border-bottom-color: #f8f9fa !important;
+    border-bottom-color: #000000 !important;
 }
 
 .arrow-dark {
-    border-bottom-color: #ffffff !important;
+    border-bottom-color: #000000 !important;
 }
 
 .bag-notification-wrapper {
@@ -224,7 +224,7 @@ a.category-badge > span.badge:hover {
 
 .allauth-form-inner-content button:hover,
 .allauth-form-inner-content input[type='submit']:hover {	
-	color: rgb(0, 0, 0);
+	color: rgb(255, 255, 255);
     background-color: #222;
     border-color: #222;
 }
@@ -257,7 +257,7 @@ a.category-badge > span.badge:hover {
 
 .custom-checkbox .custom-control-input:checked~.custom-control-label::before {
     background-color: #ff0303;
-    border-color: #000000;
+    border-color: #ffffff;
     border-radius: 0;
 }
 

@@ -5,8 +5,8 @@
   padding: 10px 12px;
   border: 1px solid transparent;
   border-radius: 0px;
-  background-color: rgb(0, 0, 0);
-  box-shadow: 0 1px 3px 0 #e6ebf1;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 1px 3px 0 #ffffff;
   -webkit-transition: box-shadow 150ms ease;
   transition: box-shadow 150ms ease;
 }
@@ -22,7 +22,7 @@
 }
 
 .stripe-style-input::placeholder {
-    color: #000000;
+    color: #ffffff;
 }
 
 .fieldset-label {
@@ -43,7 +43,7 @@ select option {
 
 select:invalid,
 select option[value=""] {
-    color: #000000 !important;
+    color: #ffffff !important;
 }
 
 #loading-overlay {
