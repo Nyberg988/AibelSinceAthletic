@@ -3,10 +3,10 @@ html {
 }
 
 body {
-    background: url('/media/pexels-muffin-creatives-2205839.jpg') no-repeat center center fixed;
+    background: url('/media/pexels-frame-kings-806627.jpg') no-repeat center center fixed;
     background-size: cover;
     height: calc(100vh - 164px);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     font-family: 'Lato';
 }
 
@@ -62,7 +62,7 @@ body {
 }
 
 .text-black {
-    color: rgb(0, 0, 0) !important;
+    color: rgb(255, 255, 255) !important;
 }
 
 .border-black {
@@ -137,7 +137,7 @@ a.category-badge > span.badge:hover {
 }
 
 .arrow-secondary {
-    border-bottom-color: #6c757d !important;
+    border-bottom-color: #000000 !important;
 }
 
 .arrow-success {
@@ -330,7 +330,7 @@ form {
   /* Add some padding and a grey background color to containers */
   .container {
     padding: 20px;
-    background-color: #afafaf;
+    background-color: #000000;
   }
   
   /* Style the input elements and the submit button */
