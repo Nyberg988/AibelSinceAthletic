@@ -2,7 +2,7 @@
 
 Welcome to Sailor Sam, who sell t-shirts with their own printing!
 
-![2022-10-27 (13)](https://user-images.githubusercontent.com/106691587/198366161-2270bd5b-4dff-4e23-bc8c-916120ec0146.png)
+![2022-12-20 (8)](https://user-images.githubusercontent.com/106691587/208554438-a1ff7f7d-e9c0-4489-b561-a8d73cba6aad.png)
 
 # Features
 # Heading, Name, Account and Shop icon.
@@ -10,22 +10,22 @@ At the top of the page you find the Heading, the name of the site.
 Account button, to be able to register and log in.
 Shop button, overview in your shopping cart and finally place your order.
 
-![heading sa](https://user-images.githubusercontent.com/106691587/198366795-ff964874-74ba-4cfe-b47d-a542c7094a78.png)
+![222222](https://user-images.githubusercontent.com/106691587/208554561-ea493c3f-8421-48e6-aa05-a66bf28c8cb6.png)
 
 # Shop now button
 In the middle of the page on the left you will find Shop now takes you directly to our products.
 
-![middle sa](https://user-images.githubusercontent.com/106691587/198367496-e799c9b4-5010-452f-b53a-70f988c06d8c.png)
+![333333](https://user-images.githubusercontent.com/106691587/208554650-6a97f92e-5a23-4020-b7f9-0fd4e3408871.png)
 
 # Products
 Here you can see different products.
 
-![2022-11-21](https://user-images.githubusercontent.com/106691587/203449538-ca7ea757-1fad-42da-822d-abf4a2099317.png)
+![2022-12-20 (2)](https://user-images.githubusercontent.com/106691587/208554723-b32bc9be-94d7-4978-b7b5-b5bb3f5ececb.png)
 
 # Selected product
 After the selected product, you can read more information about it and choose quantity and size.
 
-![2022-11-21 (1)](https://user-images.githubusercontent.com/106691587/203449765-f460108d-9fdc-4176-aba6-ab211057cab8.png)
+![2022-12-20 (3)](https://user-images.githubusercontent.com/106691587/208554789-1daa1401-98db-421e-ad65-6ce085b28939.png)
 
 # Add to bag
 Once you have added the product to the cart, you can see the total price and complete the purchase.
@@ -36,12 +36,12 @@ Once you have added the product to the cart, you can see the total price and com
 # Add product
 As an admin, you can add new products.
 
-![2022-11-21 (4)](https://user-images.githubusercontent.com/106691587/203450237-9ffde30a-bcbe-45b9-8459-3a2df5775ae6.png)
+![2022-12-20 (10)](https://user-images.githubusercontent.com/106691587/208555224-54dc98f0-9d3a-45e1-85b8-8fec624e9668.png)
 
 # Facebook icon and Newsletter
 At the bottom you will find a Facebook icon that takes you directly to the Sailor Sam Facebook page, and a form to sign if you want the latest news about Sailor Sam (Newsletter Sign Up).
 
-![2022-11-23](https://user-images.githubusercontent.com/106691587/203451249-34775b47-b06a-47d6-aa93-0a55fb9dfeb9.png)
+![2022-12-20 (1)](https://user-images.githubusercontent.com/106691587/208554921-b6f90899-f0c4-47d0-8925-aa79aedf8865.png)
 
 # No account
 Those who do not have an account cannot complete purchases and are taken directly to "Server Error (500)".
@@ -52,16 +52,16 @@ Those who do not have an account cannot complete purchases and are taken directl
 # HTML 
 No errors were returned when passing through the official W3C validator.
 
-![2022-10-27 (12)](https://user-images.githubusercontent.com/106691587/198367588-1f83b93d-bcf5-4290-bca0-59b30e2542a5.png)
+![2022-12-20 (7)](https://user-images.githubusercontent.com/106691587/208555000-87c0e087-42df-4cd7-a5e2-3ad019628a79.png)
 
 # CSS  
 No errors were found when passing through the official (jigsaw) validator.
 
-![2022-10-27 (11)](https://user-images.githubusercontent.com/106691587/198367624-ccdf0229-235a-408d-868d-6090c31e207e.png)
+![2022-12-20 (6)](https://user-images.githubusercontent.com/106691587/208555012-c9bcdc02-894a-4ced-97d9-45982d55dda0.png)
 
 # LightHouse
 
-![2022-10-27 (14)](https://user-images.githubusercontent.com/106691587/198367676-5cd06475-9427-4733-bc2a-c19351ed8a96.png)
+![2022-12-20 (9)](https://user-images.githubusercontent.com/106691587/208555028-2ca07f9c-ee84-464f-b755-a1631dff44e8.png)
 
 # Facebook Page
 The live link can be found here - https://www.facebook.com/people/Sailor-Sam/100087732176003/
